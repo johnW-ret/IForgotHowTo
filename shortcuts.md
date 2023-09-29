@@ -9,3 +9,7 @@ The intent of this document is not to grow a complete list of shortcuts across a
 | Ctrl-Y | Redo last action | Microsoft Office | https://support.microsoft.com/en-us/office/undo-redo-or-repeat-an-action-84bdb9bc-4e23-4f06-ba78-f7b893eb2d28#:~:text=To%20redo%20something%20you%27ve%20undone%2C%20press%20Ctrl%2BY%20or,button%20only%20appears%20after%20you%27ve%20undone%20an%20action.%29 |
 | F4 | Select Address Bar | File Explorer (Windows) |
 | F2 | Rename Item | File Explorer (Windows) |
+| Ctrl + Shift + Alt + N | New Default Polyglot Notebook | VSCode |
+| Ctrl+K Ctrl+Alt+S | Stage Selected Range | VSCode |
+| Ctrl+K Ctrl+N | Unstage Selected Range | VSCode |
+| Ctrl+K Ctrl+R | Revert Selected Range | VSCode |
