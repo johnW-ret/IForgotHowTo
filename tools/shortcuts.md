@@ -13,3 +13,6 @@ The intent of this document is not to grow a complete list of shortcuts across a
 | Ctrl+K Ctrl+Alt+S | Stage Selected Range | VSCode |
 | Ctrl+K Ctrl+N | Unstage Selected Range | VSCode |
 | Ctrl+K Ctrl+R | Revert Selected Range | VSCode |
+| Ctrl+Alt+Arrow Up / Down | Add Second Cursor | VSCode |
+| Ctrl+Alt+Arrow Up / Down | Add Second Cursor | Visual Studio |
+| Shift+Alt+Arrow Up / Down | Add Second Cursor | Visual Studio | https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022#bkmk_edit-popular-shortcuts (Line down extend column) |
