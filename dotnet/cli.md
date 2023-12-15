@@ -1,4 +1,4 @@
-.NET
+.NET CLI
 ======
 
 # Nuget
