@@ -19,6 +19,7 @@ The intent of this document is not to grow a complete list of shortcuts across a
 | F4 | Select Address Bar | File Explorer (Windows) |
 | F2 | Rename Item | File Explorer (Windows) |
 | Ctrl + Shift + Alt + N | New Default Polyglot Notebook | VSCode |
+| Ctrl + Shift + C | Open new terminal window for current folder | VSCode |
 | Ctrl+K Ctrl+Alt+S | Stage Selected Range | VSCode |
 | Ctrl+K Ctrl+N | Unstage Selected Range | VSCode |
 | Ctrl+K Ctrl+R | Revert Selected Range | VSCode |
