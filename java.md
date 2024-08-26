@@ -64,3 +64,11 @@ For example
 ```java
 Double.parseDouble("0.01")
 ```
+
+## C# `nameof`
+
+C# `nameof` drop-in uses reflection in Java. If you just need the class name, a one-liner:
+
+```java
+ClassNameFoo.class.getSimpleName()
+```
